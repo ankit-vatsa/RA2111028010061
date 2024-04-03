@@ -1,0 +1,37 @@
+[
+    {
+        "productName": "Phone 6",
+        "price": 3854,
+        "rating": 4.84,
+        "discount": 40,
+        "availability": "yes"
+    },
+    {
+        "productName": "Phone 6",
+        "price": 1441,
+        "rating": 4.79,
+        "discount": 81,
+        "availability": "out-of-stock"
+    },
+    {
+        "productName": "Phone 8",
+        "price": 6700,
+        "rating": 3.64,
+        "discount": 43,
+        "availability": "yes"
+    },
+    {
+        "productName": "Phone 9",
+        "price": 4248,
+        "rating": 2.9,
+        "discount": 7,
+        "availability": "out-of-stock"
+    },
+    {
+        "productName": "Phone 12",
+        "price": 4718,
+        "rating": 2.86,
+        "discount": 14,
+        "availability": "yes"
+    }
+]

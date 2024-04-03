@@ -1,0 +1,37 @@
+[
+    {
+        "productName": "Phone 3",
+        "price": 8222,
+        "rating": 4.89,
+        "discount": 50,
+        "availability": "out-of-stock"
+    },
+    {
+        "productName": "Phone 14",
+        "price": 3297,
+        "rating": 4.84,
+        "discount": 90,
+        "availability": "yes"
+    },
+    {
+        "productName": "Phone 9",
+        "price": 7757,
+        "rating": 4.65,
+        "discount": 10,
+        "availability": "out-of-stock"
+    },
+    {
+        "productName": "Phone 5",
+        "price": 8349,
+        "rating": 4.56,
+        "discount": 7,
+        "availability": "yes"
+    },
+    {
+        "productName": "Phone 10",
+        "price": 3424,
+        "rating": 4.4,
+        "discount": 95,
+        "availability": "out-of-stock"
+    }
+]

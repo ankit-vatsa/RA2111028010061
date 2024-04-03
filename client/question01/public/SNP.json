@@ -1,0 +1,37 @@
+[
+    {
+        "productName": "Phone 8",
+        "price": 4176,
+        "rating": 4.94,
+        "discount": 47,
+        "availability": "out-of-stock"
+    },
+    {
+        "productName": "Phone 14",
+        "price": 1600,
+        "rating": 3.65,
+        "discount": 39,
+        "availability": "yes"
+    },
+    {
+        "productName": "Phone 15",
+        "price": 308,
+        "rating": 3.37,
+        "discount": 3,
+        "availability": "out-of-stock"
+    },
+    {
+        "productName": "Phone 7",
+        "price": 6560,
+        "rating": 3.29,
+        "discount": 76,
+        "availability": "out-of-stock"
+    },
+    {
+        "productName": "Phone 4",
+        "price": 5075,
+        "rating": 3.06,
+        "discount": 58,
+        "availability": "out-of-stock"
+    }
+]

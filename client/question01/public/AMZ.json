@@ -1,0 +1,37 @@
+[
+    {
+        "productName": "Phone 1",
+        "price": 4931,
+        "rating": 4.57,
+        "discount": 67,
+        "availability": "out-of-stock"
+    },
+    {
+        "productName": "Phone 4",
+        "price": 7009,
+        "rating": 4.24,
+        "discount": 98,
+        "availability": "out-of-stock"
+    },
+    {
+        "productName": "Phone 7",
+        "price": 4065,
+        "rating": 3.98,
+        "discount": 3,
+        "availability": "out-of-stock"
+    },
+    {
+        "productName": "Phone 4",
+        "price": 2139,
+        "rating": 3.53,
+        "discount": 64,
+        "availability": "yes"
+    },
+    {
+        "productName": "Phone 7",
+        "price": 1184,
+        "rating": 3.3,
+        "discount": 62,
+        "availability": "out-of-stock"
+    }
+]

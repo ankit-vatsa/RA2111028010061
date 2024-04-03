@@ -1,0 +1,37 @@
+[
+    {
+        "productName": "Phone 12",
+        "price": 2703,
+        "rating": 4.73,
+        "discount": 86,
+        "availability": "out-of-stock"
+    },
+    {
+        "productName": "Phone 10",
+        "price": 685,
+        "rating": 4.58,
+        "discount": 24,
+        "availability": "out-of-stock"
+    },
+    {
+        "productName": "Phone 4",
+        "price": 9743,
+        "rating": 4.38,
+        "discount": 85,
+        "availability": "yes"
+    },
+    {
+        "productName": "Phone 10",
+        "price": 8814,
+        "rating": 3.57,
+        "discount": 88,
+        "availability": "out-of-stock"
+    },
+    {
+        "productName": "Phone 1",
+        "price": 9303,
+        "rating": 3.29,
+        "discount": 77,
+        "availability": "yes"
+    }
+]
